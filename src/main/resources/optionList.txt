@@ -1,0 +1,3 @@
+meta[property*=author]
+meta[name*=author]
+meta[name=description]
